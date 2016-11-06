@@ -1,7 +1,5 @@
 /* ---------------------------
-  Core app behaviour:
-  Displays information in the html
-  about the tram status.
+  Core app behaviour
 --------------------------- */
 
 var a,
