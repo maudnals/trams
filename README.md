@@ -1,6 +1,8 @@
 # trams
 JS coding challenge: crossing tramways
 
+## Challenge 
+
 3 trams are moving on different railways from one station to another, with the
 same speed. They need to
 circulate from end to end on their own railway.
@@ -17,3 +19,8 @@ Notes:
 * The space between stations are the same.
 * A tram avoids a collision stopping in the previous station and letting the tram
 with higher priority to get the next station.
+
+
+## Solution
+
+https://maudnals.github.io/trams/index.html
